@@ -1,1 +1,2 @@
-#Place holder for now, will edit once I organize this thing - Atharv
+** Nimbus people, please put all your commits in this folder. Thanks!
+**  - Atharv
